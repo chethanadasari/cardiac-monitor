@@ -1,5 +1,5 @@
 # cardiac-monitor
-ingle-lead ECG simulator + Pan-Tompkins QRS detection + HRV analysis + live Streamlit dashboard. Built from scratch in numpy. 
+Single-lead ECG simulator + Pan-Tompkins QRS detection + HRV analysis + live Streamlit dashboard. Built from scratch in numpy. 
 # Cardiac Monitor — Live ECG Dashboard
 
 [![Tests](https://github.com/chethanadasari/cardiac-monitor/actions/workflows/tests.yml/badge.svg)](https://github.com/chethanadasari/cardiac-monitor/actions/workflows/tests.yml)
